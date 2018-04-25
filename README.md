@@ -1,11 +1,11 @@
 # AndroidNDK
 
 
-开发工具: Android Studio
+##开发工具: Android Studio
 
-开发环境: Mac OS
+*开发环境: Mac OS*
 
-功能简介:
+>功能简介:
 
 1,java传递数据给c语言
 
