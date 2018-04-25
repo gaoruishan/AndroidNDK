@@ -7,14 +7,21 @@
 
 > 功能简介:
 -  导入
-` static {
+```
+ static {
 		System.loadLibrary("jni");//so 名称
-	} `
+	}
+```
 - java传递数据给c语言
+```
 
+``
 - c传递数据给java语言
+```
 
+```
 - 代码回调
+```
 
-
+```
 **备注:** [ReadMe.md使用规范](https://www.jianshu.com/p/q81RER)
