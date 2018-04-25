@@ -6,7 +6,10 @@
 **开发环境: Mac OS**
 
 > 功能简介:
-
+-  导入
+` static {
+		System.loadLibrary("jni");//so 名称
+	} `
 - java传递数据给c语言
 
 - c传递数据给java语言
