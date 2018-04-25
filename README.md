@@ -38,7 +38,7 @@
 	 * @return
 	 */
 	public native int[] getIntArray(int[] num);
-``
+```
 
 - c传递数据给java语言
 
