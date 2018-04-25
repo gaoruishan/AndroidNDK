@@ -13,6 +13,7 @@
 	}
 ```
 - java传递数据给c语言
+
 ```
 	public native String getString();
 
@@ -38,7 +39,9 @@
 	 */
 	public native int[] getIntArray(int[] num);
 ``
+
 - c传递数据给java语言
+
 ```
 	public native void callGet();
 
@@ -80,6 +83,7 @@
 	}
 ```
 - 代码回调
+
 ```
 	public interface CallJNIBack {
 		void callBack(String s);
@@ -89,4 +93,5 @@
 		this.callJNIBack = callJNIBack;
 	}
 ```
+
 **备注:** [ReadMe.md使用规范](https://www.jianshu.com/p/q81RER)
