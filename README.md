@@ -5,13 +5,13 @@
 
 **开发环境: Mac OS**
 
->功能简介:
+> 功能简介:
 
-1,java传递数据给c语言
+- java传递数据给c语言
 
-2,c传递数据给java语言
+- c传递数据给java语言
 
-3,代码回调
+- 代码回调
 
 
-**备注: [ReadMe.md使用规范](https://www.jianshu.com/p/q81RER)
+**备注:** [ReadMe.md使用规范](https://www.jianshu.com/p/q81RER)
